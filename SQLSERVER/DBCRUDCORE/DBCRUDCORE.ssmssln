@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CRUDCORE", "CRUDCORE\CRUDCORE.ssmssqlproj", "{4EA624FC-243D-4279-8EC1-D3E5BAECD953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521573AD-7FF7-4E9B-A2F7-A261D27C73E6}.Default|Default.ActiveCfg = Default
+		{4EA624FC-243D-4279-8EC1-D3E5BAECD953}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C230CFB-DDAB-4DCE-AE5D-27255A87AF61}
+	EndGlobalSection
+EndGlobal
